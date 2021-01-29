@@ -3,7 +3,7 @@
 
 Rehack is a hackathon hosted by Princeton University. Our APP and dining system is about solving food waste and food insecure issues in the university campuses. The average US college student wastes 142 pounds of food waste, and 22 million pounds of food are wasted each year on college campuses. Yet, in spring 2020, 38% of students at universities were food-insecure in the past 30 days. 
 
-Our group creates an APP to collect food waste data from students every day and convert it into data visualizations to decrease the unnecessary food waste in colleges. Also, the APP calculates how much nutrition students require from every meal to avoid the Freshman 15. Our prototype also won the "most scalable" prize. I hope one day we can physically implement our APP in universities, using big data to save our Earth and environment. 
+Our group creates an APP to collect food waste data from students every day and convert it into data visualizations to decrease the unnecessary food waste in colleges. Also, the APP calculates how much nutrition students require from every meal to avoid the Freshman 15. Our prototype also won the "most scalable" prize and I presented during closing ceremony. I hope one day we can physically implement our APP in universities, using big data to save our Earth and environment. 
 
 * Prototype: https://devpost.com/software/faye
 
