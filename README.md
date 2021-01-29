@@ -1,4 +1,4 @@
-![FAYE](https://user-images.githubusercontent.com/73563140/106217911-3f550780-61a4-11eb-98a8-dc7c3336b604.png)
+![FAYE](https://user-images.githubusercontent.com/73563140/106218194-dfab2c00-61a4-11eb-94cb-5c9cbf904480.png)
 
 # Rehack
 
